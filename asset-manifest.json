@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/webfolio/static/css/main.b26cc9a4.css",
+    "main.js": "/webfolio/static/js/main.4ef554bb.js",
+    "static/media/IMAGE.png": "/webfolio/static/media/IMAGE.e1ffd7676dc1ae119ba6.png",
+    "static/media/card (1).svg": "/webfolio/static/media/card (1).784b5a6680bdbb98adae86dc1f4cb007.svg",
+    "static/media/5.svg": "/webfolio/static/media/5.367800800108e7e7bbe5047da2b43566.svg",
+    "static/media/card (3).svg": "/webfolio/static/media/card (3).5bd6c250ea15995dfa3b4fe851e8cb9f.svg",
+    "static/media/1.svg": "/webfolio/static/media/1.5d4cfcbd7f9b34a8333cb4b87bbe7fd1.svg",
+    "static/media/goods (2).svg": "/webfolio/static/media/goods (2).bd36632ae981e09d18552d78117ea5a5.svg",
+    "static/media/card (2).svg": "/webfolio/static/media/card (2).2dc642529798ffb53743c53dd90bf193.svg",
+    "static/media/3.svg": "/webfolio/static/media/3.6cb4a1f196484a4338d5b0332116ed86.svg",
+    "static/media/4.svg": "/webfolio/static/media/4.6cb4a1f196484a4338d5b0332116ed86.svg",
+    "static/media/2.svg": "/webfolio/static/media/2.1a470be0d22804a585fa50734cc918ec.svg",
+    "static/media/goods (1).svg": "/webfolio/static/media/goods (1).e3105c65af93f6eff2502bdc4653c709.svg",
+    "static/media/goods (3).svg": "/webfolio/static/media/goods (3).fb749e3789db34eb19403a755740cbf1.svg",
+    "static/media/icon1 (4).svg": "/webfolio/static/media/icon1 (4).8179c140fc521f1071caebb07c33d218.svg",
+    "static/media/icon1 (2).svg": "/webfolio/static/media/icon1 (2).58369aeecaf4311fbc3ea53c2edb16c5.svg",
+    "static/media/star.svg": "/webfolio/static/media/star.8646e4b5956ffceb673d92e7a2a104bf.svg",
+    "static/media/icon1 (1).svg": "/webfolio/static/media/icon1 (1).bcff48139130a9a89184c9977babbb23.svg",
+    "static/media/yellow.svg": "/webfolio/static/media/yellow.470d102f1c02df4a53555f146d6a6693.svg",
+    "index.html": "/webfolio/index.html",
+    "static/media/icon1 (3).svg": "/webfolio/static/media/icon1 (3).33586b6550bba785939fcda3c0a198a9.svg",
+    "main.b26cc9a4.css.map": "/webfolio/static/css/main.b26cc9a4.css.map",
+    "main.4ef554bb.js.map": "/webfolio/static/js/main.4ef554bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26cc9a4.css",
+    "static/js/main.4ef554bb.js"
+  ]
+}
